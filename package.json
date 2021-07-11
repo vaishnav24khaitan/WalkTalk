@@ -1,0 +1,33 @@
+{
+  "name": "engage",
+  "version": "1.0.0",
+  "description": "A free WebRTC browser-based video call",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnav24khaitan"
+  },
+  "author": "Vaishnav Khaitan",
+  "homepage": "https://github.com/vaishnav24khaitan",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "csurf": "^1.11.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.10.0",
+    "ngrok": "^4.0.1",
+    "nodemon": "^2.0.9",
+    "socket.io": "^4.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/vaishnav24khaitan"
+  },
+  "devDependencies": {}
+}
