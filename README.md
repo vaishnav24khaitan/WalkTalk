@@ -59,4 +59,11 @@ Open the app in one of following supported browser
 * Open http://localhost:3000 in your browser
 
 
+# Credits
+* akashyap(HTML template)
+* i-aryan(whiteboard)
+* sajad(chat)
+* vasanthv(wwebrtc)
+
+
 
